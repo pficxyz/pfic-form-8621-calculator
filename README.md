@@ -13,7 +13,7 @@ without requiring custom spreadsheets or manual recomputation.
 
 The hosted PFIC Form 8621 calculator is available at:
 
-https://pfic.xyz
+https://8621calculator.com/
 
 All calculations, validations, and downloadable Excel workpapers
 are generated on the above platform.
@@ -54,7 +54,7 @@ are required from the user.
 A complete written walkthrough of the PFIC Form 8621 DIY process,
 from CSV upload through final output, is available here:
 
-https://pfic.xyz/form-8621-diy-calculation/
+https://8621calculator.com/docs/quick-start-and-csv-template-instructions/
 
 This guide explains:
 - How to prepare the transaction CSV
