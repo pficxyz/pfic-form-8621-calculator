@@ -97,7 +97,7 @@ and filings comply with current IRS rules and guidance.
 Additional background articles and technical explanations related to
 PFIC reporting and Form 8621 are available at:
 
-https://pfic.xyz/articles/
+https://pficreport.com/form-8621/
 
 ---
 
